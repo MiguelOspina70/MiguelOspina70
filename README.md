@@ -1,4 +1,4 @@
-# 👋 ¡Hola! te sakuda el ING.Miguel Ospina  
+# 👋 ¡Hola! te saluda Miguel Ospina  
 
 💡 **Ingeniero Electrónico** apasionado por la tecnología, el desarrollo de soluciones IoT y la programación web. Combino conocimientos en sistemas embebidos como **Arduino** y **ESP32** con experiencia en el desarrollo frontend y backend, creando proyectos funcionales y escalables.  
 
