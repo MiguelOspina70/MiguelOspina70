@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Sobre mí  
-- 🎓 Estudiante de **Ingeniería Electrónica** en la Universidad del Quindío  
+- 🎓 Graduado de **Ingeniería Electrónica** en la Universidad del Quindío  
 - 💻 Desarrollo web con **HTML, CSS, JavaScript, Sass, Bootstrap y React**  
 - 🌐 Experiencia en trabajo colaborativo con **Git y GitHub**  
 - 📡 Desarrollo de sistemas IoT con sensores, automatización y microcontroladores  
