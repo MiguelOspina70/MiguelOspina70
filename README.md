@@ -39,8 +39,7 @@
 
 ## 📬 Contáctame  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/miguel-angel-ospina-torres)  
-📧 **maot200@gmail.com**  
-📍 Armenia, Quindío, Colombia  
+📧 **maot200@gmail.com**   
 
 ---
 
